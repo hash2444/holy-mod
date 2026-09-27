@@ -8,7 +8,7 @@
 
 [![Download](https://img.shields.io/badge/Download-latest%20release-e94560?style=for-the-badge&logo=github&logoColor=white)](../../releases/latest)
 
-![version: 1.73.0](https://img.shields.io/badge/version-1.73.0-a78bfa?style=flat-square) ![Minecraft Bedrock: 1.26.40+](https://img.shields.io/badge/Minecraft_Bedrock-1.26.40%2B-62b47a?style=flat-square) ![add-ons merged: 23](https://img.shields.io/badge/add--ons_merged-23-f472b6?style=flat-square) ![milestones: 146](https://img.shields.io/badge/milestones-146-fbbf24?style=flat-square) ![RTX: ready](https://img.shields.io/badge/RTX-ready-76b900?style=flat-square) ![price: free](https://img.shields.io/badge/price-free-38bdf8?style=flat-square)
+![version: 1.73.1](https://img.shields.io/badge/version-1.73.1-a78bfa?style=flat-square) ![Minecraft Bedrock: 1.26.40+](https://img.shields.io/badge/Minecraft_Bedrock-1.26.40%2B-62b47a?style=flat-square) ![add-ons merged: 23](https://img.shields.io/badge/add--ons_merged-23-f472b6?style=flat-square) ![milestones: 146](https://img.shields.io/badge/milestones-146-fbbf24?style=flat-square) ![RTX: ready](https://img.shields.io/badge/RTX-ready-76b900?style=flat-square) ![price: free](https://img.shields.io/badge/price-free-38bdf8?style=flat-square)
 
 [At a glance](#at-a-glance) · [Features](#features) · [Install](#install) · [First steps](#first-steps) · [Included add-ons](#included-add-ons) · [Credits](#credits--licenses)
 
@@ -322,7 +322,7 @@ Cupcake, Pancakes, Macaron, Hot Cocoa, Apple Pie, Pizza, Cinnamon Roll, Strawber
 
 ## Install
 
-Download **`Holy-Mod-v1.73.0.mcaddon`** from the [releases page](../../releases) (or straight from this repository) and open it - Minecraft imports the packs.
+Download **`Holy-Mod-v1.73.1.mcaddon`** from the [releases page](../../releases) (or straight from this repository) and open it - Minecraft imports the packs.
 
 1. Create or edit a world and open **Add-Ons**.
 2. Activate the **Behavior Pack** and the **Resource Pack** of this add-on.
