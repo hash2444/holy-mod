@@ -10,7 +10,7 @@
 
 ![version: 1.73.2](https://img.shields.io/badge/version-1.73.2-a78bfa?style=flat-square) ![Minecraft Bedrock: 1.26.40+](https://img.shields.io/badge/Minecraft_Bedrock-1.26.40%2B-62b47a?style=flat-square) ![add-ons merged: 23](https://img.shields.io/badge/add--ons_merged-23-f472b6?style=flat-square) ![milestones: 146](https://img.shields.io/badge/milestones-146-fbbf24?style=flat-square) ![RTX: ready](https://img.shields.io/badge/RTX-ready-76b900?style=flat-square) ![price: free](https://img.shields.io/badge/price-free-38bdf8?style=flat-square)
 
-[At a glance](#at-a-glance) · [Made by #2444](#made-by-2444) · [Features](#features) · [Install](#install) · [First steps](#first-steps) · [Included add-ons](#included-add-ons) · [Credits](#credits--licenses)
+[Screenshots](#screenshots) · [At a glance](#at-a-glance) · [Made by #2444](#made-by-2444) · [Features](#features) · [Install](#install) · [First steps](#first-steps) · [Included add-ons](#included-add-ons) · [Credits](#credits--licenses)
 
 </div>
 
@@ -19,6 +19,15 @@
 Holy Mod started as 23 open-source community add-ons - ores and tools, bosses, origins and classes, storage tech, travel, building, furniture, lighting and creatures - merged into one behavior pack and one resource pack. On top sits **#2444's** own content and an integration layer that turns it into one game: one guide, one command set, a Chronicle of milestones, daily quests, world events and class bonuses that reach into every part.
 
 > The add-ons' own content belongs to their authors (see [Credits & licenses](#credits--licenses)). The integration layer, the compatibility fixes, the merge into a single pack and everything under the `holy:` name are made by **#2444**.
+
+## Screenshots
+
+<p align="center">
+<img src="screenshots/rtx-gems.webp" alt="Holy gems glowing under ray tracing" width="48%">
+<img src="screenshots/pets.webp" alt="Some of the pets and plushies" width="48%">
+<img src="screenshots/emotes.webp" alt="The Emote Fan menu" width="48%">
+<img src="screenshots/mount.webp" alt="A giant plushie in the world" width="48%">
+</p>
 
 ## At a glance
 
