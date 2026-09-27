@@ -18,7 +18,7 @@
 
 Holy Mod started as 23 open-source community add-ons - ores and tools, bosses, origins and classes, storage tech, travel, building, furniture, lighting and creatures - merged into one behavior pack and one resource pack. On top sits **#2444's** own content and an integration layer that turns it into one game: one guide, one command set, a Chronicle of milestones, daily quests, world events and class bonuses that reach into every part.
 
-> The add-ons' own content belongs to their authors (see [Credits & licenses](#credits--licenses)). The integration layer, the compatibility fixes, the merge into a single pack and everything under the `holy:` name are made by **#2444** himself.
+> The add-ons' own content belongs to their authors (see [Credits & licenses](#credits--licenses)). The integration layer, the compatibility fixes, the merge into a single pack and everything under the `holy:` name are made by **#2444**.
 
 ## At a glance
 
@@ -36,7 +36,7 @@ Holy Mod started as 23 open-source community add-ons - ores and tools, bosses, o
 
 ## Made by #2444
 
-The **23 add-ons** below are other people's open-source work (credited and licensed under [Included add-ons](#included-add-ons) and [Credits & licenses](#credits--licenses)). Everything else on this page - **1,140 items, blocks and creatures**, every texture, model, recipe and script under the `holy:` name - is made by **#2444** himself, not by an add-on:
+The **23 add-ons** below are other people's open-source work (credited and licensed under [Included add-ons](#included-add-ons) and [Credits & licenses](#credits--licenses)). Everything else on this page - **1,140 items, blocks and creatures**, every texture, model, recipe and script under the `holy:` name - is made by **#2444**, not by an add-on:
 
 - All **11 gems**, the **4 Lucky Ore tiers**' Holy content, and every gem tool, staff, charm and piece of decor
 - The whole **Femboy Corner**: 185 clothes, 44 outfits, wings, hats, trail ribbons
@@ -331,7 +331,7 @@ Cupcake, Pancakes, Macaron, Hot Cocoa, Apple Pie, Pizza, Cinnamon Roll, Strawber
 | [Cute Seals](https://github.com/IgnacioBarEsp/Cute_Seals_BP) | seals | MIT |
 | [Cat Statue](https://github.com/MatchaChoco010/MinecraftCatStatueAddon) | cat statues | MIT |
 
-[Pickaxe on Koke](https://github.com/hash2444/pickaxe-on-koke) is by #2444. The new gems are recolored copies of the Rubies set (MIT); the tiered Lucky Ores are based on Ivanluck Lucky Ore (MIT); all Holy models, textures and scripts are made by #2444 himself.
+[Pickaxe on Koke](https://github.com/hash2444/pickaxe-on-koke) is by #2444. The new gems are recolored copies of the Rubies set (MIT); the tiered Lucky Ores are based on Ivanluck Lucky Ore (MIT); all Holy models, textures and scripts are made by #2444.
 
 ## Install
 
@@ -354,7 +354,7 @@ New to add-ons? **[SETUP-HELP.md](SETUP-HELP.md)** walks you through it step by 
 
 ## Credits & licenses
 
-Every add-on keeps its original license - see the table under [Included add-ons](#included-add-ons); the license texts are also inside the pack, in `licenses/`. The add-ons' game content belongs to their authors; the Holy integration layer, the compatibility fixes and all Holy content are made by #2444 himself. Home Furniture stays under its CC BY-NC-SA 4.0 license with Vcraft's additional permissions.
+Every add-on keeps its original license - see the table under [Included add-ons](#included-add-ons); the license texts are also inside the pack, in `licenses/`. The add-ons' game content belongs to their authors; the Holy integration layer, the compatibility fixes and all Holy content are made by #2444. Home Furniture stays under its CC BY-NC-SA 4.0 license with Vcraft's additional permissions.
 
 ## What was changed to make this pack work
 
@@ -366,7 +366,7 @@ Every pack of mine carries a small easter egg: craft the **Dev Book** with **9 l
 
 ## Notes
 
-- This is an assembly of other people's open-source Bedrock add-ons plus Holy Mod's own content; see *Credits & licenses* above.
+- This is an assembly of other people's open-source Bedrock add-ons plus #2444's own content; see *Credits & licenses* above.
 - One part (Home Furniture) is licensed non-commercial: Holy Mod is and stays free - it must not be sold or put behind a paywall or ad gate.
 - Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
 
