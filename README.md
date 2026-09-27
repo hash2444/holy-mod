@@ -10,15 +10,15 @@
 
 ![version: 1.73.2](https://img.shields.io/badge/version-1.73.2-a78bfa?style=flat-square) ![Minecraft Bedrock: 1.26.40+](https://img.shields.io/badge/Minecraft_Bedrock-1.26.40%2B-62b47a?style=flat-square) ![add-ons merged: 23](https://img.shields.io/badge/add--ons_merged-23-f472b6?style=flat-square) ![milestones: 146](https://img.shields.io/badge/milestones-146-fbbf24?style=flat-square) ![RTX: ready](https://img.shields.io/badge/RTX-ready-76b900?style=flat-square) ![price: free](https://img.shields.io/badge/price-free-38bdf8?style=flat-square)
 
-[At a glance](#at-a-glance) · [What's Holy Mod's own work](#whats-holy-mods-own-work) · [Features](#features) · [Install](#install) · [First steps](#first-steps) · [Included add-ons](#included-add-ons) · [Credits](#credits--licenses)
+[At a glance](#at-a-glance) · [Made by dev:#2444](#made-by-dev2444) · [Features](#features) · [Install](#install) · [First steps](#first-steps) · [Included add-ons](#included-add-ons) · [Credits](#credits--licenses)
 
 </div>
 
 ---
 
-Holy Mod started as 23 open-source community add-ons - ores and tools, bosses, origins and classes, storage tech, travel, building, furniture, lighting and creatures - merged into one behavior pack and one resource pack. On top sits Holy Mod's own content and an integration layer that turns it into one game: one guide, one command set, a Chronicle of milestones, daily quests, world events and class bonuses that reach into every part.
+Holy Mod started as 23 open-source community add-ons - ores and tools, bosses, origins and classes, storage tech, travel, building, furniture, lighting and creatures - merged into one behavior pack and one resource pack. On top sits **dev:#2444's** own content and an integration layer that turns it into one game: one guide, one command set, a Chronicle of milestones, daily quests, world events and class bonuses that reach into every part.
 
-> The add-ons' own content belongs to their authors (see [Credits & licenses](#credits--licenses)). The integration layer, the compatibility fixes, the merge into a single pack and everything under the `holy:` name are Holy Mod's own work.
+> The add-ons' own content belongs to their authors (see [Credits & licenses](#credits--licenses)). The integration layer, the compatibility fixes, the merge into a single pack and everything under the `holy:` name are made by **dev:#2444** himself.
 
 ## At a glance
 
@@ -34,9 +34,9 @@ Holy Mod started as 23 open-source community add-ons - ores and tools, bosses, o
 
 <sub>Every number on this page is counted from the released pack itself.</sub>
 
-## What's Holy Mod's own work
+## Made by dev:#2444
 
-The **23 add-ons** below are other people's open-source work (credited and licensed under [Included add-ons](#included-add-ons) and [Credits & licenses](#credits--licenses)). Everything else on this page - **1,140 items, blocks and creatures**, every texture, model, recipe and script under the `holy:` name - is made by **dev:#2444** for Holy Mod:
+The **23 add-ons** below are other people's open-source work (credited and licensed under [Included add-ons](#included-add-ons) and [Credits & licenses](#credits--licenses)). Everything else on this page - **1,140 items, blocks and creatures**, every texture, model, recipe and script under the `holy:` name - is made by **dev:#2444** himself, not by an add-on:
 
 - All **11 gems**, the **4 Lucky Ore tiers**' Holy content, and every gem tool, staff, charm and piece of decor
 - The whole **Femboy Corner**: 185 clothes, 44 outfits, wings, hats, trail ribbons
@@ -53,7 +53,7 @@ The **23 add-ons** below are other people's open-source work (credited and licen
 
 - **One mod** - one behavior pack and one resource pack, one creative inventory with *Holy* groups, every command under `/holy:`, one `[Holy]` chat style, its own pack icon and welcome screen
 - **Holy Guide** - a book with a chapter for every part of the mod, your profile and the **Command Center**, which runs every command from menus. Every player gets it on first join; craft a new one from a book and a gold ingot
-- **Recipe Book** - every crafting recipe of Holy Mod's own things (941) by category, with the grid, the ingredients and a green/red check of your inventory. The **Cookbook** does the same for the oven and the kitchen machines
+- **Recipe Book** - every crafting recipe made by dev:#2444 (941) by category, with the grid, the ingredients and a green/red check of your inventory. The **Cookbook** does the same for the oven and the kitchen machines
 - **Holy Chronicle** - 146 milestones through every part of the mod, each with a reward - often something from another part
 - **Daily quests** - three new quests every Minecraft day, drawn from 37 quest types all over the mod, plus a daily bonus
 - **World events** about every 20 minutes (operators can set 5-60), for everyone at once: Gem Rush, Lucky Night, Boss Hunt, Builder's Blessing, Traveler's Winds, Quest Frenzy, Monster Bounty, Butterfly Bloom, Sweet Tooth Hour, Capsule Fever and Treasure Hunt
@@ -331,7 +331,7 @@ Cupcake, Pancakes, Macaron, Hot Cocoa, Apple Pie, Pizza, Cinnamon Roll, Strawber
 | [Cute Seals](https://github.com/IgnacioBarEsp/Cute_Seals_BP) | seals | MIT |
 | [Cat Statue](https://github.com/MatchaChoco010/MinecraftCatStatueAddon) | cat statues | MIT |
 
-[Pickaxe on Koke](https://github.com/hash2444/pickaxe-on-koke) is by dev:#2444. The new gems are recolored copies of the Rubies set (MIT); the tiered Lucky Ores are based on Ivanluck Lucky Ore (MIT); all Holy models, textures and scripts are Holy Mod's own.
+[Pickaxe on Koke](https://github.com/hash2444/pickaxe-on-koke) is by dev:#2444. The new gems are recolored copies of the Rubies set (MIT); the tiered Lucky Ores are based on Ivanluck Lucky Ore (MIT); all Holy models, textures and scripts are made by dev:#2444 himself.
 
 ## Install
 
@@ -354,7 +354,7 @@ New to add-ons? **[SETUP-HELP.md](SETUP-HELP.md)** walks you through it step by 
 
 ## Credits & licenses
 
-Every add-on keeps its original license - see the table under [Included add-ons](#included-add-ons); the license texts are also inside the pack, in `licenses/`. The add-ons' game content belongs to their authors; the Holy integration layer, the compatibility fixes and all Holy content are Holy Mod's own. Home Furniture stays under its CC BY-NC-SA 4.0 license with Vcraft's additional permissions.
+Every add-on keeps its original license - see the table under [Included add-ons](#included-add-ons); the license texts are also inside the pack, in `licenses/`. The add-ons' game content belongs to their authors; the Holy integration layer, the compatibility fixes and all Holy content are made by dev:#2444 himself. Home Furniture stays under its CC BY-NC-SA 4.0 license with Vcraft's additional permissions.
 
 ## What was changed to make this pack work
 
