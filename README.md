@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hash2444/holy-mod/0cda4815282f4fc3ab7b326aa85b45840bb1fde0/holy-mod.png" alt="Holy Mod: plushies, flying mounts, machines, gems and more in one Bedrock mod" width="100%">
+<img src="https://raw.githubusercontent.com/hash2444/holy-mod/v1.73.2/holy-mod.png" alt="Holy Mod: plushies, flying mounts, machines, gems and more in one Bedrock mod" width="100%">
 
 # Holy Mod
 
@@ -10,7 +10,7 @@
 
 ![version: 1.73.2](https://img.shields.io/badge/version-1.73.2-a78bfa?style=flat-square) ![Minecraft Bedrock: 1.26.40+](https://img.shields.io/badge/Minecraft_Bedrock-1.26.40%2B-62b47a?style=flat-square) ![add-ons merged: 23](https://img.shields.io/badge/add--ons_merged-23-f472b6?style=flat-square) ![milestones: 146](https://img.shields.io/badge/milestones-146-fbbf24?style=flat-square) ![RTX: ready](https://img.shields.io/badge/RTX-ready-76b900?style=flat-square) ![price: free](https://img.shields.io/badge/price-free-38bdf8?style=flat-square)
 
-[At a glance](#at-a-glance) · [Features](#features) · [Install](#install) · [First steps](#first-steps) · [Included add-ons](#included-add-ons) · [Credits](#credits--licenses)
+[At a glance](#at-a-glance) · [What's Holy Mod's own work](#whats-holy-mods-own-work) · [Features](#features) · [Install](#install) · [First steps](#first-steps) · [Included add-ons](#included-add-ons) · [Credits](#credits--licenses)
 
 </div>
 
@@ -33,6 +33,19 @@ Holy Mod started as 23 open-source community add-ons - ores and tools, bosses, o
 </table>
 
 <sub>Every number on this page is counted from the released pack itself.</sub>
+
+## What's Holy Mod's own work
+
+The **23 add-ons** below are other people's open-source work (credited and licensed under [Included add-ons](#included-add-ons) and [Credits & licenses](#credits--licenses)). Everything else on this page - **1,140 items, blocks and creatures**, every texture, model, recipe and script under the `holy:` name - is made by **dev:#2444** for Holy Mod:
+
+- All **11 gems**, the **4 Lucky Ore tiers**' Holy content, and every gem tool, staff, charm and piece of decor
+- The whole **Femboy Corner**: 185 clothes, 44 outfits, wings, hats, trail ribbons
+- All **40 plushies**, giant plushies, the **12 pets**, butterflies, songbirds, fish and the creatures that call them
+- Every **food, drink and kitchen machine** (103 foods, 7 machines), the whole Holy Oven
+- **292 decorations**, the building blocks, wallpapers and tiles, the **6 flying mounts**
+- The **Holy Guide**, Recipe Book, Cookbook, Chronicle, daily quests, world events, ranks and profile - the whole integration layer that ties the add-ons together
+- The **RTX material maps** for every Holy texture and model
+- Every compatibility fix listed under [What was changed to make this pack work](#what-was-changed-to-make-this-pack-work)
 
 ## Features
 
