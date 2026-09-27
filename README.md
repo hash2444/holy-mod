@@ -26,7 +26,6 @@ Holy Mod started as 23 open-source community add-ons - ores and tools, bosses, o
 <img src="screenshots/rtx-gems.webp" alt="Holy gems glowing under ray tracing" width="48%">
 <img src="screenshots/pets.webp" alt="Some of the pets and plushies" width="48%">
 <img src="screenshots/emotes.webp" alt="The Emote Fan menu" width="48%">
-<img src="screenshots/mount.webp" alt="A giant plushie in the world" width="48%">
 </p>
 
 ## At a glance
