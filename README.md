@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hash2444/holy-mod/v1.73.2/holy-mod.png" alt="Holy Mod: plushies, flying mounts, machines, gems and more in one Bedrock mod" width="100%">
+<img src="https://raw.githubusercontent.com/hash2444/holy-mod/main/holy-mod.png" alt="Holy Mod: plushies, flying mounts, machines, gems and more in one Bedrock mod" width="100%">
 
 # Holy Mod
 
