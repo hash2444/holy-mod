@@ -26,6 +26,9 @@ Holy Mod started as 23 open-source community add-ons - ores and tools, bosses, o
 <img src="screenshots/rtx-gems.webp" alt="Holy gems glowing under ray tracing" width="48%">
 <img src="screenshots/pets.webp" alt="Some of the pets and plushies" width="48%">
 <img src="screenshots/emotes.webp" alt="The Emote Fan menu" width="48%">
+<img src="screenshots/balloon.webp" alt="The Hot Air Balloon" width="48%">
+<img src="screenshots/flowers-glow.webp" alt="Holy flowers glowing under ray tracing" width="48%">
+<img src="screenshots/flowers-glow2.webp" alt="Two glowing flowers up close" width="48%">
 </p>
 
 ## At a glance
